@@ -6,6 +6,7 @@ import Slider from "./components/Slider";
 import Signup from "./components/Signup";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Login from "./components/Login";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
               <Slider />
               <ProductionHouse />
               <GenreMovieList />
+             <Footer/>
             </>
           }
         />

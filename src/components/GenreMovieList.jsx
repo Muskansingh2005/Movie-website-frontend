@@ -18,3 +18,4 @@ function GenreMovieList() {
 }
 export default GenreMovieList;
 
+
